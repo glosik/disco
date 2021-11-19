@@ -1,0 +1,2 @@
+# disco
+static vinyl records
